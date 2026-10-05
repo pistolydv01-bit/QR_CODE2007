@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+razorpay
+qrcode
+pillow
+flask
+python-dotenv
+gunicorn
