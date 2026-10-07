@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+flask
+razorpay
+python-dotenv
+selenium
+webdriver-manager
+Pillow
+gunicorn
